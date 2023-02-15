@@ -1,0 +1,23 @@
+.books{
+    font-size: 40px;
+    padding-top: 12% ;
+    color:whitesmoke;
+    padding-left: 21%;
+}
+
+.book{
+    /* padding-top:20px; */
+    background-color: rgba(92, 89, 86, 0.6);
+    width: 50rem;
+    margin-bottom: 15px;
+}
+
+.pr{
+    height:90px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.name{
+    margin-top: -50px;
+}

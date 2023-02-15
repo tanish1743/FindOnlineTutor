@@ -1,0 +1,57 @@
+.obox{
+    background-color: rgba(59, 65, 65, 0.7);
+    box-shadow: 5px 5px 8px #333131;
+    height:430px;
+    width:400px;
+    margin-left: 35%;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    color:white;
+    padding-top: 2%;
+}
+
+
+.inpbox{
+    border-color: rgb(103, 124, 124);
+    height:45px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgb(210, 216, 226);
+    margin-bottom: 8px;
+}
+
+.heading{
+    color:rgb(172, 199, 215);
+    font-family: Garamond, serif;
+    margin-bottom:58px;
+}
+
+.btn{
+    background-color:lightslategrey;
+    border: none;
+    height:50px;
+    width: 170px;
+    border-radius: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 8px #040404;
+}
+
+.sign{
+    margin-top: 3px;
+}
+
+.nhead{
+    margin-bottom: 8px;
+    margin-top: 15px;
+}
+
+.para{
+    margin-bottom: 30px;
+}
+
+.choice{
+    position: absolute;
+    top:30%;
+    left:40.5%;
+}
